@@ -1,4 +1,4 @@
-![BSides Utah Events](BSidesUtah.avif "BSides SLC")
+ ![BSides Utah Events](BSidesUtah.avif "BSides SLC")
 
 # Shifting Left: A Hands-on Introductory Guide to DevSecOps
 
